@@ -1,0 +1,29 @@
+===========================================================
+💊 PHARMD RESIDENCY INTERVIEW SIMULATOR - START HERE
+===========================================================
+
+Follow these 3 steps to start your interview practice:
+
+STEP 1: INSTALL THE "AI BRAIN"
+This app runs locally on your computer for 100% privacy. 
+To power the AI, you must install 'Ollama':
+-> Download at: https://ollama.com/
+-> After installing, you don't need to do anything else with it.
+
+STEP 2: EXTRACT THE FILES
+If you are reading this inside a "Compressed" or "Zip" folder:
+-> Right-click this folder.
+-> Select "Extract All..."
+-> Open the NEW folder that is created. 
+(The app will NOT work if you run it from inside the Zip!)
+
+STEP 3: RUN THE SIMULATOR
+-> Double-click 'run_app.exe'.
+-> A black window will open (don't close it!).
+-> Your web browser will open automatically to the simulator.
+
+-----------------------------------------------------------
+TIPS FOR SUCCESS:
+- Place your residency PDFs in the 'data' folder to help the 
+  AI answer based on specific clinical guidelines.
+- Be patient on the first run; the AI is "warming up."
