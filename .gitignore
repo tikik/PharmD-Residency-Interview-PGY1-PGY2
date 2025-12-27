@@ -1,9 +1,27 @@
-
-chroma_db/
-dist/
-build/
-__pycache__/
+# Virtual environments
+.pharmdvenv/
+pharmd_venv/
 .venv/
-.env
+venv/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Build & packaging
+build/
+dist/
+*.spec
 *.exe
 *.bat
+
+# Vector DB (built during GitHub Actions)
+chroma_db/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Env
+.env
