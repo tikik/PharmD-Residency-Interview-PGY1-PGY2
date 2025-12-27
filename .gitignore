@@ -1,1 +1,9 @@
+
 chroma_db/
+dist/
+build/
+__pycache__/
+.venv/
+.env
+*.exe
+*.bat
