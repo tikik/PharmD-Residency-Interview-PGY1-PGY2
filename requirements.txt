@@ -5,6 +5,7 @@ torch
 langchain
 langchain-community
 langchain-ollama
+langchain-chroma
 gTTS
 openai-whisper
 chromadb
