@@ -60,8 +60,6 @@ The build pipeline uses **GitHub Actions** to create a Windows `.exe` on release
 
 ---
 
-## For Developers
-
 ### Project Structure
 ```
 ├── app.py                  # Streamlit UI
