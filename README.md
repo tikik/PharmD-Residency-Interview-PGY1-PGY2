@@ -71,11 +71,7 @@ The build pipeline uses **GitHub Actions** to create a Windows `.exe` on release
 ├── requirements.txt        # Python dependencies
 └── .github/workflows/      # Auto-builds Windows .exe on release
 ```
-
-### License
-
-This project is open-source and free to use for educational purposes.
-Built with ❤️ to support future pharmacy leaders.
+**Built with ❤️ to support future pharmacy leaders.**
 
 ### Acknowledgements
 
