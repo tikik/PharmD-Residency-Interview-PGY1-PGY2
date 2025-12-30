@@ -71,7 +71,6 @@ The build pipeline uses **GitHub Actions** to create a Windows `.exe` on release
 ├── requirements.txt        # Python dependencies
 └── .github/workflows/      # Auto-builds Windows .exe on release
 ```
-**Built with ❤️ to support future pharmacy leaders.**
 
 ### Project Journey
 
@@ -86,3 +85,5 @@ Llama 3.1 – Meta’s open-weight language model
 all-MiniLM-L6-v2 – Efficient sentence embeddings (Hugging Face)
 Chroma – Lightweight vector database
 Streamlit – Beautiful ML apps in minutes
+
+**Built with ❤️ to support future pharmacy leaders.**
