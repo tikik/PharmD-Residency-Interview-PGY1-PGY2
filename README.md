@@ -3,7 +3,7 @@
 A locally run, privacy-first interview practice tool for pharmacy residents.  
 This application simulates a residency interview panel that asks questions and gives feedback based on **your specific program’s documents**—all without sending data to the cloud.
 
-Built by a fellow pharmacy professional who understands how stressful residency interviews can be—and how much preparation they require.
+Built by a fellow pharmacy professional who understands how stressful residency interviews can be—and how much preparation they require. 
 
 ---
 
@@ -72,6 +72,12 @@ The build pipeline uses **GitHub Actions** to create a Windows `.exe` on release
 └── .github/workflows/      # Auto-builds Windows .exe on release
 ```
 **Built with ❤️ to support future pharmacy leaders.**
+
+### Project Journey
+
+- **Git hygiene**: Learned from accidental 13k-file commit → now use strict `.gitignore`
+- **Build strategy**: Switched from Linux (non-functional `.exe`) to Windows-native builds
+- **Distribution**: Deliver via GitHub Releases — never commit binaries to source
 
 ### Acknowledgements
 
