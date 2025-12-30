@@ -1,47 +1,25 @@
+# Virtual Environments
+venv/
+env/
+ENV/
+.venv/
+.env/
+
 # Python
 __pycache__/
 *.pyc
 *.pyo
 *.pyd
 .Python
-env/
 build/
-develop-eggs/
 dist/
-downloads/
-eggs/
-.eggs/
-lib/
-lib64/
-parts/
-sdist/
-var/
-wheels/
-pip-wheel-metadata/
-share/python-wheels/
 *.egg-info/
 .installed.cfg
 *.egg
 MANIFEST
 
-# PyInstaller
-*.spec
-
-# Virtual env
-venv/
-ENV/
-.env/
-
-# Data & Models (CRITICAL)
-chroma_db/
-data/
-models/
-*.bin
-*.pth
-*.onnx
-*.safetensors
-.cache/
-.huggingface/
-
-# Logs
-*.log
+# Binaries & caches
+bin/
+lib/
+include/
+Scripts/
