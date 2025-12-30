@@ -1,28 +1,44 @@
-# Virtual Environments
+# ======================
+# Virtual Environments (explicit)
+# ======================
 pharmd_venv/
 .pharmd_venv/
-# Virtual Environments
+
 venv/
 env/
 ENV/
 .venv/
 .env/
 
-# Python
+# ======================
+# Python bytecode & artifacts
+# ======================
 __pycache__/
-*.pyc
-*.pyo
-*.pyd
+*.py[cod]
+*$py.class
 .Python
-build/
-dist/
 *.egg-info/
 .installed.cfg
 *.egg
 MANIFEST
 
-# Binaries & caches
-bin/
-lib/
-include/
-Scripts/
+# ======================
+# Build & Packaging (PyInstaller)
+# ======================
+build/
+dist/
+*.spec
+
+# ======================
+# Never commit binaries or system folders
+# (but scoped to root to avoid overblocking)
+# ======================
+/pharmd_venv/bin/
+/pharmd_venv/lib/
+/pharmd_venv/include/
+/pharmd_venv/Scripts/
+
+/venv/bin/
+/venv/lib/
+/venv/include/
+/venv/Scripts/
