@@ -1,8 +1,12 @@
 # Virtual Environments
 pharmd_venv/
-
 .pharmd_venv/
-
+# Virtual Environments
+venv/
+env/
+ENV/
+.venv/
+.env/
 
 # Python
 __pycache__/
